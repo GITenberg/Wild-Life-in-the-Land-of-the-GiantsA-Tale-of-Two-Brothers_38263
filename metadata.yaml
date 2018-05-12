@@ -1,0 +1,30 @@
+_repo: Wild-Life-in-the-Land-of-the-GiantsA-Tale-of-Two-Brothers_38263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, W. Gordon (William Gordon)
+    - Stables, William Gordon
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: 'Wild Life in the Land of the Giants: A Tale of Two Brothers'
+url: http://www.gutenberg.org/ebooks/38263
