@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4164'
     url: http://www.gutenberg.org/2009/agents/4164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38263#Wild-Life-in-the-Land-of-the-GiantsA-Tale-of-Two-Brothers
 gutenberg_issued: '2011-12-10'
 gutenberg_type: Text
 identifiers:
